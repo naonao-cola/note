@@ -26,8 +26,25 @@
 1. Agno轻量级库，快速构建多模态智能体，统一API将LLM，赋予超级能力[github](https://github.com/agno-agi/agno)
 
 
+## code
+
+0. 60k+ 深度学习论文的实现/教程 [github](https://nn.labml.ai/index.html)
+1. pytorch-deep-learning 汉化版 [github](https://github.com/liufei65536/mrdbourke_pytorch-deep-learning_cn/tree/master)
+2. 剑桥ddbourgin的 numpy 机器学习 [github](https://github.com/ddbourgin/numpy-ml)
+3. lucidrains的主页， VIT 模型 [github](https://github.com/lucidrains)
+4. 官方 pytorch example [github](https://github.com/pytorch/examples)
+5. Pytorch模型训练实用教程第二版 代码与pdf [github](https://github.com/TingsongYu/PyTorch_Tutorial)
+6. 面向初学者的 pytorch 现代 cuda笔记 [github](https://github.com/xlite-dev/CUDA-Learn-Notes)
+7. trt课程 tensorrt_starter  [github](https://github.com/kalfazed/tensorrt_starter.git)
+8. fastai 文档 [github](https://github.com/fastai/fastai)
+9. PyTorch 学习笔记 [gitbook](https://pytorch.zhangxiann.com/)
+10. 小土堆的 pytorch [github](https://github.com/AccumulateMore/CV/tree/main)
+11. BBuf佬的 tvm笔记 [github](https://github.com/BBuf/tvm_mlir_learn)
+12. BBuf佬的 cuda笔记 [github](https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master)
+13. 4.2k的 cuda教学 cuda/lectures [github](https://github.com/cuda-mode/lectures)
+14. BBuf的主页-从零开始学深度学习编译器 [zhihu](https://www.zhihu.com/people/zhang-xiao-yu-45-67-74/search?keyword=%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BC%96%E8%AF%91%E5%99%A8&pathBefore=%2Fpeople%2Fzhang-xiao-yu-45-67-74)
 
 ### 友情链接
 
-0. luoqiuluoqiu [note](https://luoqiuluoqiu.github.io/note/)
-1. 闹闹的笔记 [docisify](https://naonao-cola.github.io/gist/)
+1. luoqiuluoqiu [note](https://luoqiuluoqiu.github.io/note/)
+2. 闹闹的笔记 [docisify](https://naonao-cola.github.io/gist/)
