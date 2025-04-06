@@ -20,10 +20,16 @@
 
 ## llm
 
+### langchain
+
+0. langchain-examples 示例 [github](https://github.com/larkwins/langchain-examples)
+1. langchian 简介 [zhihu](https://zhuanlan.zhihu.com/p/13434188733)
+2. langchain eat_chatgpt [github](https://github.com/lyhue1991/eat_chatgpt/tree/main)
+   
 ### toolkits
 
-0. ragflow 大模型工具  [github](https://github.com/infiniflow/ragflow.git)
-1. Agno轻量级库，快速构建多模态智能体，统一API将LLM，赋予超级能力[github](https://github.com/agno-agi/agno)
+1. ragflow 大模型工具  [github](https://github.com/infiniflow/ragflow.git)
+2. Agno轻量级库，快速构建多模态智能体，统一API将LLM，赋予超级能力[github](https://github.com/agno-agi/agno)
 
 
 ## code
