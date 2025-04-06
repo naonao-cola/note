@@ -38,6 +38,9 @@
 1. yolo目标检测书的源码 yolo_Tutorial-v2 [github](https://github.com/naonao-cola/my_yolo_Tutorial-v2.git)
 2. 自制深度学习推理框架 KuiperInfer [github](https://github.com/zjhellofss/KuiperInfer.git)
 
+### VIT
+
+
 ## llm
 
 ### langchain
