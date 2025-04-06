@@ -1,10 +1,30 @@
 
 
+## doc
+
+0. xmake 文档 [doc](https://xmake.io/#/zh-cn/getting_started)
+1. connst 文档 [doc](https://coostdocs.github.io/cn/about/co/)
+2. xrepo 文档 [doc](https://xrepo.xmake.io/#/zh-cn/getting_started)
+3. 小林coding  图解计算机基础 [doc](https://xiaolincoding.com/)
+4. 程序喵 c++指南 [doc](https://chengxumiaodaren.com/)
+5. pytorch 中文文档 [doc](https://pytorch-cn.readthedocs.io/zh/latest/)
+6. pytorch 官方文档 [doc](https://pytorch.ac.cn/docs/stable/index.html)
+7. tvm 中文文档 [doc](https://tvm.hyper.ai/docs/)
+8. fastai 文档 [doc](https://docs.fast.ai/)
+9. openai triton 中文站[doc](https://triton.hyper.ai/)
+10. vllm 中文文档 [doc](https://www.aidoczh.com/vllm/)
+11. langchain 中文文档[doc](https://www.langchain.com.cn/docs/introduction/)
+12. fastapi 中文文档 [doc](https://fastapi.tiangolo.com/zh/)
+13. linux命令查询  [doc](https://www.linuxcool.com/)
+14. Linux工具快速教程 [doc](https://linuxtools-rst.readthedocs.io/zh-cn/latest/index.html)
+
+
+
 ## cxx
 
-0. cpptrace 调用栈恢复源码信息 [知乎](https://zhuanlan.zhihu.com/p/19257168256?utm_campaign=shareopn&utm_medium=social&utm_psn=1864452920814223360&utm_source=wechat_session)
-1. co_async 协程 [github](https://github.com/archibate/co_async.git)
-2. 单头文件的 cpp-httplib [github](https://github.com/yhirose/cpp-httplib.git)
+1. cpptrace 调用栈恢复源码信息 [知乎](https://zhuanlan.zhihu.com/p/19257168256?utm_campaign=shareopn&utm_medium=social&utm_psn=1864452920814223360&utm_source=wechat_session)
+2. co_async 协程 [github](https://github.com/archibate/co_async.git)
+3. 单头文件的 cpp-httplib [github](https://github.com/yhirose/cpp-httplib.git)
 
 ## python
 
@@ -25,7 +45,7 @@
 0. langchain-examples 示例 [github](https://github.com/larkwins/langchain-examples)
 1. langchian 简介 [zhihu](https://zhuanlan.zhihu.com/p/13434188733)
 2. langchain eat_chatgpt [github](https://github.com/lyhue1991/eat_chatgpt/tree/main)
-   
+
 ### toolkits
 
 1. ragflow 大模型工具  [github](https://github.com/infiniflow/ragflow.git)
