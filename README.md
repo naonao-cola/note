@@ -122,7 +122,8 @@
 9. RE-detr 视频讲解 [bilibili](https://www.bilibili.com/video/BV1DG411z71m/?spm_id_from=333.1391.0.0&vd_source=1d8a232b177c2a5e28ac445019114cec)
 10. RE-DETR 仓库 [github](https://github.com/lyuwenyu/RT-DETR)
 11. DEIM 仓库[github](https://github.com/ShihuaHuang95/DEIM)
-12.
+
+
 ## llm
 
 1. AI-Guide-and-Demos-zh_CN 中文的 AI/LLM 大模型入门项目 [github](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/tree/master)
