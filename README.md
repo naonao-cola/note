@@ -67,20 +67,20 @@
 
 
 ## cuda
-1. CPU|GPU程序执行流程 -系列介绍[ gitbook](https://deployment.gitbook.io/love/whitepaper/cuda/quitstart)
-2. logic.math.code-高性能计算 [feishu](https://logikosto.feishu.cn/wiki/ECArwdRwEi1LVgknksZcoV9inxc)
-3. ray 分布式介绍 [bilibili](https://www.bilibili.com/video/BV1VE411w73P/?vd_source=1d8a232b177c2a5e28ac445019114cec)
-4. 国外友人讲的简单的分布式计算 [bilibili](https://www.bilibili.com/video/BV1fX4y1P715/?spm_id_from=333.337.search-card.all.click&vd_source=1d8a232b177c2a5e28ac445019114cec)
-5. 国人讲的介绍 [bilibili](https://www.bilibili.com/video/BV1bP41167x7/?vd_source=1d8a232b177c2a5e28ac445019114cec)
-6. ray 使用 [csdn](https://blog.csdn.net/WhiffeYF/article/details/131970028)
-7. Ray分布式计算框架详解 [zhihu](https://zhuanlan.zhihu.com/p/460600694)
-8. Ray的部署和超参数优化 [zhihu](https://zhuanlan.zhihu.com/p/541055486)
-9. ray 官网 [index](https://docs.ray.io/en/latest/index.html)
-10. 并行计算-Ray分布式计算环境搭建 [zhihu](https://zhuanlan.zhihu.com/p/663734342)
-11. 智源的仓库实现 triton -FlagGems [github](https://github.com/FlagOpen/FlagGems)
-12. 智源的仓库实现大模型算子 -FlagAttention[github](https://github.com/FlagOpen/FlagAttention)
-13. Triton归约算子的实现形式 [feishu](https://l0kzvikuq0w.feishu.cn/wiki/SumlwHgxaiqSE9ka2M4cNz3mnSe)
-14. Triton写算子入门 [zhihu](https://zhuanlan.zhihu.com/p/887257776)
+0. CPU-GPU程序执行流程 -系列介绍[ gitbook](https://deployment.gitbook.io/love/whitepaper/cuda/quitstart)
+1. logic.math.code-高性能计算 [feishu](https://logikosto.feishu.cn/wiki/ECArwdRwEi1LVgknksZcoV9inxc)
+2. ray 分布式介绍 [bilibili](https://www.bilibili.com/video/BV1VE411w73P/?vd_source=1d8a232b177c2a5e28ac445019114cec)
+3. 国外友人讲的简单的分布式计算 [bilibili](https://www.bilibili.com/video/BV1fX4y1P715/?spm_id_from=333.337.search-card.all.click&vd_source=1d8a232b177c2a5e28ac445019114cec)
+4. 国人讲的介绍 [bilibili](https://www.bilibili.com/video/BV1bP41167x7/?vd_source=1d8a232b177c2a5e28ac445019114cec)
+5. ray 使用 [csdn](https://blog.csdn.net/WhiffeYF/article/details/131970028)
+6. Ray分布式计算框架详解 [zhihu](https://zhuanlan.zhihu.com/p/460600694)
+7. Ray的部署和超参数优化 [zhihu](https://zhuanlan.zhihu.com/p/541055486)
+8. ray 官网 [index](https://docs.ray.io/en/latest/index.html)
+9.  并行计算-Ray分布式计算环境搭建 [zhihu](https://zhuanlan.zhihu.com/p/663734342)
+10. 智源的仓库实现 triton -FlagGems [github](https://github.com/FlagOpen/FlagGems)
+11. 智源的仓库实现大模型算子 -FlagAttention[github](https://github.com/FlagOpen/FlagAttention)
+12. Triton归约算子的实现形式 [feishu](https://l0kzvikuq0w.feishu.cn/wiki/SumlwHgxaiqSE9ka2M4cNz3mnSe)
+13. Triton写算子入门 [zhihu](https://zhuanlan.zhihu.com/p/887257776)
 
 
 ## tensorrt
