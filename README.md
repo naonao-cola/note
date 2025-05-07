@@ -161,7 +161,7 @@
 6. InternLM大模型开源社区-Linux 常见基础知识[feishu](https://aicarrier.feishu.cn/wiki/ZNBEwiC1jirOrfkpCrOcNqSxnZd)
 7. 通往 AGI 之路 -prompts 提示词[feishu](https://waytoagi.feishu.cn/wiki/NbqXwHXrkiYWKVkFTbmcwxQqntb)
 8. 智谱 AI 技术文档- ChatGLM-3-6B 技术文档 [feishu](https://zhipu-ai.feishu.cn/wiki/WvQbwIJ9tiPAxGk8ywDck6yfnof)
-9.
+9. pybind11落地实战[feishu](https://ilyryn6yei.feishu.cn/docx/YDfHdU9mfoTlnqxaTkscRob6nGe)
 
 
 
