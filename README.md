@@ -84,7 +84,9 @@
 11. 智源的仓库实现大模型算子 -FlagAttention[github](https://github.com/FlagOpen/FlagAttention)
 12. Triton归约算子的实现形式 [feishu](https://l0kzvikuq0w.feishu.cn/wiki/SumlwHgxaiqSE9ka2M4cNz3mnSe)
 13. Triton写算子入门 [zhihu](https://zhuanlan.zhihu.com/p/887257776)
-
+14. cute 介绍，shape tensor [峰子的乐园](https://dingfen.github.io/2024/08/18/2024-8-18-cute/)
+15. CuTe, shape 形状计算解析 [cnblog](https://www.cnblogs.com/Edwardlyz/articles/18368114)
+16. cute 子块的切割 [zhihu](https://zhuanlan.zhihu.com/p/28356098779)
 
 ## tensorrt
 
