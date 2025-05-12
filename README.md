@@ -84,22 +84,25 @@
 11. 智源的仓库实现大模型算子 -FlagAttention[github](https://github.com/FlagOpen/FlagAttention)
 12. Triton归约算子的实现形式 [feishu](https://l0kzvikuq0w.feishu.cn/wiki/SumlwHgxaiqSE9ka2M4cNz3mnSe)
 13. Triton写算子入门 [zhihu](https://zhuanlan.zhihu.com/p/887257776)
+
+
 ### cutlass
-0. cute 介绍，shape tensor [峰子的乐园](https://dingfen.github.io/2024/08/18/2024-8-18-cute/)
-1. CuTe, shape 形状计算解析 [cnblog](https://www.cnblogs.com/Edwardlyz/articles/18368114)
-2. cute 子块的切割 [zhihu](https://zhuanlan.zhihu.com/p/28356098779)
-3. CuTe Layout Algebra 解析 [zhihu](https://zhuanlan.zhihu.com/p/22300321859)
-4. CUDA 编程使用 Tensor core 详解 [zhihu](https://zhuanlan.zhihu.com/p/706494789)
-5. 自底向上理解cute  [zhihu](https://zhuanlan.zhihu.com/p/8225904566)
-6. cutlass源码导读（3）——核心软件抽象  [zhihu](https://zhuanlan.zhihu.com/p/595533802)
-7. CUDA使用Tensor Core执行GEMM代码讲解——入门向 [zhihu](https://zhuanlan.zhihu.com/p/1888052343708308119)
-8. 为什么加pad可以解bank conflict？ [zhihu](https://zhuanlan.zhihu.com/p/603016056)
-9.  OpenAI-Triton学习仓库推荐 [zhihu](https://zhuanlan.zhihu.com/p/29006314571)
-10. reed佬的  CUDA高性能编程 [zhihu](https://www.zhihu.com/column/c_1696937812497235968)
-11. cute 之 Copy抽象 [zhihu](https://zhuanlan.zhihu.com/p/666232173)
-12. 只推荐一个cuda c++项目 你会推荐哪一个？ [zhihu](https://www.zhihu.com/question/665380720/answer/92099035426)
-13. CUTLASS CuTe实战(一)-基础 [zhihu](https://zhuanlan.zhihu.com/p/690703999)
-14. CUDA shared memory避免bank conflict的swizzling机制解析 [zhihu](https://zhuanlan.zhihu.com/p/4746910252)
+
+1. cute 介绍，shape tensor [峰子的乐园](https://dingfen.github.io/2024/08/18/2024-8-18-cute/)
+2. CuTe, shape 形状计算解析 [cnblog](https://www.cnblogs.com/Edwardlyz/articles/18368114)
+3. cute 子块的切割 [zhihu](https://zhuanlan.zhihu.com/p/28356098779)
+4. CuTe Layout Algebra 解析 [zhihu](https://zhuanlan.zhihu.com/p/22300321859)
+5. CUDA 编程使用 Tensor core 详解 [zhihu](https://zhuanlan.zhihu.com/p/706494789)
+6. 自底向上理解cute  [zhihu](https://zhuanlan.zhihu.com/p/8225904566)
+7. cutlass源码导读（3）——核心软件抽象  [zhihu](https://zhuanlan.zhihu.com/p/595533802)
+8. CUDA使用Tensor Core执行GEMM代码讲解——入门向 [zhihu](https://zhuanlan.zhihu.com/p/1888052343708308119)
+9. 为什么加pad可以解bank conflict？ [zhihu](https://zhuanlan.zhihu.com/p/603016056)
+10. OpenAI-Triton学习仓库推荐 [zhihu](https://zhuanlan.zhihu.com/p/29006314571)
+11. reed佬的  CUDA高性能编程 [zhihu](https://www.zhihu.com/column/c_1696937812497235968)
+12. cute 之 Copy抽象 [zhihu](https://zhuanlan.zhihu.com/p/666232173)
+13. 只推荐一个cuda c++项目 你会推荐哪一个？ [zhihu](https://www.zhihu.com/question/665380720/answer/92099035426)
+14. CUTLASS CuTe实战(一)-基础 [zhihu](https://zhuanlan.zhihu.com/p/690703999)
+15. CUDA shared memory避免bank conflict的swizzling机制解析 [zhihu](https://zhuanlan.zhihu.com/p/4746910252)
 
 
 
