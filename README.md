@@ -130,6 +130,7 @@
 15. YOLO入门教程-序言 -杨建华[zhihu](https://zhuanlan.zhihu.com/p/364216183)
 16. YOLO全系列模块详解 [csdn](https://blog.csdn.net/Alex_Tlover/article/details/142764338)
 17. YOLO11详解(与YOLOv8对比)[csdn](https://blog.csdn.net/Alex_Tlover/article/details/142751826)
+18. karminski牙医 - 文章系列精读 [github](https://github.com/karminski/one-small-step)
 
 
 ### VIT
