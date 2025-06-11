@@ -131,6 +131,7 @@
 16. YOLO全系列模块详解 [csdn](https://blog.csdn.net/Alex_Tlover/article/details/142764338)
 17. YOLO11详解(与YOLOv8对比)[csdn](https://blog.csdn.net/Alex_Tlover/article/details/142751826)
 18. karminski牙医 - 文章系列精读 [github](https://github.com/karminski/one-small-step)
+19. 李沐-深度学习论文精讲 paper-reading [github](https://github.com/mli/paper-reading)
 
 
 ### VIT
