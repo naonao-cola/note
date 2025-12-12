@@ -84,6 +84,8 @@
 11. 智源的仓库实现大模型算子 -FlagAttention[github](https://github.com/FlagOpen/FlagAttention)
 12. Triton归约算子的实现形式 [feishu](https://l0kzvikuq0w.feishu.cn/wiki/SumlwHgxaiqSE9ka2M4cNz3mnSe)
 13. Triton写算子入门 [zhihu](https://zhuanlan.zhihu.com/p/887257776)
+14. leetgpu github仓库 [github](https://github.com/LLAA178/LeetGPU-Guidebook)
+15. leetgpu github仓库2 [github](https://github.com/lzyrapx/LeetGPU/tree/main)
 
 
 ### cutlass
