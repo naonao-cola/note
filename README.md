@@ -159,6 +159,8 @@
 
 ### vllm
 
+1. nano-vllm 仓库 (github)[https://github.com/GeeeekExplorer/nano-vllm]
+2. nano-vllm 2025最快下手vLLM的项目-nanovllm源码解读 (zhihu)[https://zhuanlan.zhihu.com/p/1925484783229698084]
 
 ### langchain
 
