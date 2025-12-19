@@ -56,6 +56,7 @@
 30. 你见过哪些令你瞠目结舌的C/C++代码技巧？[zhihu](https://www.zhihu.com/question/37692782)
 31. The Algorithms - C++  [github.io](https://thealgorithms.github.io/C-Plus-Plus/)
 32. The Algorithms - C++ [github](https://github.com/TheAlgorithms/C-Plus-Plus)
+33. 火焰图脚本 [github](https://github.com/KeepMemoryAlive/flame_graph)
 
 
 
