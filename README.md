@@ -152,6 +152,11 @@
 11. DEIM 仓库[github](https://github.com/ShihuaHuang95/DEIM)
 
 
+## ros slam
+1. slam 代码实操[gitee](https://gitee.com/junhuisirup/slamdaimashizhan)
+2. ros 双目标定[github](https://github.com/ros-perception/image_pipeline/tree/kilted)
+   
+
 ## llm
 
 1. AI-Guide-and-Demos-zh_CN 中文的 AI/LLM 大模型入门项目 [github](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/tree/master)
