@@ -155,13 +155,15 @@
 ## ros slam
 1. slam 代码实操[gitee](https://gitee.com/junhuisirup/slamdaimashizhan)
 2. ros 双目标定[github](https://github.com/ros-perception/image_pipeline/tree/kilted)
-   
+
 
 ## llm
 
 1. AI-Guide-and-Demos-zh_CN 中文的 AI/LLM 大模型入门项目 [github](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/tree/master)
 2. 《从零实现BERT、GPT及Diffusion类算法》- 1：文章简介及目录[zhihu](https://zhuanlan.zhihu.com/p/624068993)
 3. 降低资源消耗，训练大模型 ，将Llama 4、DeepSeek-R1、Gemma 3和Reasoning LLMs的微调速度提高2倍，同时内存减少70%！[github](https://github.com/unslothai/unsloth)
+4. B站UP主--堂吉诃德拉曼查的英豪--近年AI应用技术串讲与优质文档分享,agent,skill,openclaw,harness [feishu](https://oigi8odzc5w.feishu.cn/wiki/WBMfwiNkfi6uNFkRtXdcavDzn0e)
+5. B站UP主--堂吉诃德拉曼查的英豪--hermess agent详细讲解与本地部署和基于openclaw迁出全流程 [feishu](https://oigi8odzc5w.feishu.cn/wiki/NtOrwxnyWirN3ykWSoncFRr5nGc)
 
 ### vllm
 
