@@ -164,6 +164,10 @@
 3. 降低资源消耗，训练大模型 ，将Llama 4、DeepSeek-R1、Gemma 3和Reasoning LLMs的微调速度提高2倍，同时内存减少70%！[github](https://github.com/unslothai/unsloth)
 4. B站UP主--堂吉诃德拉曼查的英豪--近年AI应用技术串讲与优质文档分享,agent,skill,openclaw,harness [feishu](https://oigi8odzc5w.feishu.cn/wiki/WBMfwiNkfi6uNFkRtXdcavDzn0e)
 5. B站UP主--堂吉诃德拉曼查的英豪--hermess agent详细讲解与本地部署和基于openclaw迁出全流程 [feishu](https://oigi8odzc5w.feishu.cn/wiki/NtOrwxnyWirN3ykWSoncFRr5nGc)
+6. packy 中转站 [wangzhi](https://www.packyapi.com/pricing)
+7. 小爱AI 中转站[网址](https://xiaoai.plus/console/personal)
+8. 哩布哩布模型站 stable difficusion [网址](https://www.liblib.art/)
+
 
 ### vllm
 
